@@ -58,6 +58,8 @@ Examples of application IDs for popular applications:
 | Plex | `com.plexapp.android`
 | Kodi | `org.xbmc.kodi`
 | Twitch | `tv.twitch.android.app`
+| Paramount | `com.cbs.ott`
+
 
 Example:
 
